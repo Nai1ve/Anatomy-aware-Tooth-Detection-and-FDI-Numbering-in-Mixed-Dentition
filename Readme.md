@@ -25,7 +25,6 @@ Please place the architecture figure in this repository and update the image pat
 
 ![Framework Overview](docs/framework.png)
 
-> Suggested location: `docs/framework.png`
 
 ## Repository Structure
 
